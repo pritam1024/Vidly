@@ -1,4 +1,4 @@
-# Vidly-Frontend
+# Vidly
 A video rental app that uses react.js library
 
 ## Useage
